@@ -1,0 +1,4 @@
+{
+    "token":"put your user token here",
+    "logChannel":"put the id of the channel you want your ping log to be sent to" 
+}
