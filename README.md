@@ -9,6 +9,7 @@
 * `$ npm install pm2 -g`
 * Optional: [Git](https://git-scm.com/downloads)
 ## Installation
+* Download the latest release from the releases page.
 * Put your user token and the channel ID of where you want your ping log to go in config.json
 * Run the bot with node or pm2
   * `$ pm2 start pinglog.js` or `$ node pinglog.js`
